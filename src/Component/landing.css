@@ -1,0 +1,42 @@
+.lamainbox{
+    /* padding-top: 0; */
+    width: 500px;
+    height: 320px;
+    border: 1px solid black;
+   
+    margin: auto;
+
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.imagesec{
+    width: 50%;
+    height: 100%;
+}
+.logoins{
+    width: 250px;
+    height: 320px;
+}
+.hello{
+    margin-left: 0px;
+    margin-top: 100px;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* .laside{
+    float: right;
+} */
+.land{
+    display: grid;
+    grid-template-rows: auto auto;
+    background-color:antiquewhite;
+}
+.enterb{
+    margin-left: 80px;
+    
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(230, 177, 44);
+}

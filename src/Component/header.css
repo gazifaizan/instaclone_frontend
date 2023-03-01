@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 70px;
+    border-bottom: 2px solid green;
+}
+
+.insname{
+    font-size: 1.5em;
+    color: green;
+    margin-right: 100px;
+    
+}
+.instaicon{
+    padding-top: 10px;
+ margin-left: 80px;
+ margin-top: 40px;
+ 
+
+ 
+}
+.camera{
+    float: right;
+    padding-top: 10px;
+    margin-right: 10px;
+}
